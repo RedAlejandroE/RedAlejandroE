@@ -2,7 +2,7 @@
 
 <h1 align="rigth">Hi 👋, I'm Alejandro Escobar</h1>
 
-<h3 align="center"><img width=300px src="https://ih1.redbubble.net/image.1009140864.9999/st,small,507x507-pad,600x600,f8f8f8.jpg"/></h3>
+<h3 align="center">Hello friend!</h3>
 
 - 🔭 I’m currently working on [Cafeteria☕](https://sparkling-starship-2b9ddf.netlify.app)
 
