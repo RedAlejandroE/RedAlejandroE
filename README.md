@@ -1,4 +1,9 @@
+body{
+background: red;
+}
+
 <h1 align="center">Hi 👋, I'm Alejandro Escobar</h1>
+
 <h3 align="center">Hello Friend!</h3>
 
 - 🔭 I’m currently working on [Cafeteria☕](https://sparkling-starship-2b9ddf.netlify.app)
