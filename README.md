@@ -1,6 +1,6 @@
-body{
-background: red;
-}
+<style>
+  body{background:blue;}
+</style>
 
 <h1 align="center">Hi 👋, I'm Alejandro Escobar</h1>
 
