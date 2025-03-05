@@ -4,6 +4,8 @@
 
 <h3 align="center">Hello friend!</h3>
 
+![Banner](https://source.unsplash.com/1600x400/?technology,coding)
+
 - 🔭 I’m currently working on [Cafeteria☕](https://sparkling-starship-2b9ddf.netlify.app)
 
 - 🌱 I’m currently learning **Full Stack**
