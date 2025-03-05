@@ -11,7 +11,7 @@ Bienvenido a mi repositorio, ¡donde la tecnología y el anime se encuentran! Aq
 
 ## 🖼️ Imágenes del Proyecto
 
-![Anime Avatar](https://example.com/avatar.jpg)  
+![Anime Avatar](https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover,format=auto,quality=85,width=1920/keyart/GYQWNXPZY-backdrop_wide)  
 ¡Anime siempre presente! 🌟
 
 ## 🔥 Características
