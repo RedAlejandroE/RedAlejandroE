@@ -1,4 +1,4 @@
-| ![Avatar](https://example.com/avatar.jpg) | 👾 **Proyecto AnimeTech** ⚡️ |
+| ![Avatar](https://sm.ign.com/t/ign_latam/screenshot/default/solo-leveling_yzza.1280.png) | 👾 **Proyecto AnimeTech** ⚡️ |
 |------------------------------------------|-----------------------------|
 Bienvenido a mi repositorio, ¡donde la tecnología y el anime se encuentran! Aquí encontrarás proyectos relacionados con desarrollo de software, ¡todo inspirado en tus series favoritas!
 
