@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://sm.ign.com/t/ign_latam/screenshot/default/solo-leveling_yzza.1280.png" alt="Avatar" width="100" height="100" style="border-radius: 50%;">
+  <img src="https://sm.ign.com/t/ign_latam/screenshot/default/solo-leveling_yzza.1280.png" alt="Avatar" width="100" height="100" style="border-radius: 100%;">
 </div>
 <h1 align="right">👾 **Proyecto AnimeTech** ⚡️</h1>
 
